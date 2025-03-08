@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/drazisil/pdbread/issues"
   },
-  "homepage": "https://github.com/drazisil/pdbread#readme"
+  "homepage": "https://github.com/drazisil/pdbread#readme",
+  "devDependencies": {
+    "@types/node": "^22.13.9"
+  }
 }
